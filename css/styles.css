@@ -1,0 +1,47 @@
+
+body{
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 20px;
+}
+#ti{
+  text-align: center;
+  padding: 6% 3%;
+}
+.i1{
+  padding: 4% 0%;
+}
+.head{
+  padding: 1% 0%;
+}
+#headercol{
+  color: hsl(0, 0%, 59%);
+}
+.row{
+  margin: 0;
+
+}
+.formbtn{
+  padding: 2% 20%;
+}
+#sec{
+  text-align: center;
+  padding: 6% 3%;
+}
+.i2{
+  height: 60%;
+  width: 60%;
+}
+.buttons{
+  padding: 4% 0%;
+  color: hsl(223, 87%, 63%);
+}
+a{
+  padding: 0% 1%;
+  text-decoration: none;
+}
+#bot{
+  text-align: center;
+  padding: 3% 3%;
+  background-color: hsl(223, 87%, 63%);
+  color: white;
+}
